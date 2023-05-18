@@ -1,2 +1,2 @@
 # discord-bot
-Discord Node.js  by Jerome
+請先使用npm install安裝所有npm插件
